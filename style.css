@@ -1,0 +1,36 @@
+.center {
+    text-align: center;
+}
+.search-box {
+    margin: 0 100px;
+    background-color: rgb(234, 234, 234);
+    margin-bottom: 5px;
+}
+.box1 {
+    margin-left: 100px;
+    background-color: #96d9d3;
+    width: 410px;
+    height: 110px;
+    margin-right: 5px;
+    font-size: 14px;
+}
+.box2 {
+    background-color: #51c3ac ;
+    width: 300px;
+    height: 110px;
+    margin-right: 5px;
+    font-size: 14px;
+}
+.box3 {
+    margin-right: 100px;
+    background-color: #76b9b9;
+    width: 600px;
+    height: 110px;
+    
+}
+.left{
+    float: left;
+}
+.clear {
+    clear: both;
+}
